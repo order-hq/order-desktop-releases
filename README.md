@@ -1,2 +1,2 @@
-# order-desktop-releases
-order-desktop-releases
+# Vorta-desktop-releases
+vorta-desktop-releases
